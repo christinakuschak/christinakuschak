@@ -1,16 +1,14 @@
-### Hi there 👋
+### Привет!
 
-<!--
-**chrisemenova/chrisemenova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я <b>Кристина Семенова</b>, тестировщик. 
 
-Here are some ideas to get you started:
+Учусь в Нетологии по программе  [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Сертификаты Нетологии
+
++   Ручное тестирование приложений
++ Компьтерная грамотность
++ GIT - система контроля версий
++ Основы вёрстки сайта
+
+
