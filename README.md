@@ -6,6 +6,10 @@
 
 [`Здесь`](https://docs.google.com/document/d/1sKWd2meQin3GVNapu8nkJ3L0NzqPX0ZmcSlLW8HweEc/edit?usp=sharing) моё резюме.
 
+### Учебные проекты
++ [Радиоман](https://github.com/chrisemenova/Radioman)
++ [Статистика выручки](https://github.com/chrisemenova/Statistics)
+
 ### Сертификаты Нетологии
 
 +   [Ручное тестирование приложений](https://github.com/chrisemenova/chrisemenova/blob/main/1.%20%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D0%A2%20%D0%BF%D1%80%D0%B8%D0%BB..pdf)
