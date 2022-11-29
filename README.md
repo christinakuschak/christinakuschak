@@ -3,8 +3,6 @@
 
 Я <b>Кристина Семенова</b>, Тестировщик ПО/ QA Engineer. 
 
-Учусь в Нетологии по программе  [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle).
-
 [`Здесь`](https://docs.google.com/document/d/1sKWd2meQin3GVNapu8nkJ3L0NzqPX0ZmcSlLW8HweEc/edit?usp=sharing) моё резюме.
 
 ### Учебные проекты
