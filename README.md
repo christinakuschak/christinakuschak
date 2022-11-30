@@ -16,5 +16,6 @@
 + [GIT - система контроля версий](https://github.com/chrisemenova/chrisemenova/blob/main/2.%20GIT.pdf)
 + [Основы вёрстки сайта](https://github.com/chrisemenova/chrisemenova/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B2%D1%91%D1%80%D1%81%D1%82%D0%BA%D0%B8%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0.pdf)
 + [Java для тестировщиков](https://github.com/chrisemenova/chrisemenova/files/9567305/3.Java.pdf)
++ [Автоматизированное тестирование](https://github.com/chrisemenova/chrisemenova/blob/main/4.%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
 
 
