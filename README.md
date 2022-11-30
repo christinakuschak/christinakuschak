@@ -8,6 +8,9 @@
 ### Учебные проекты
 + [Радиоман](https://github.com/chrisemenova/Radioman)
 + [Статистика выручки](https://github.com/chrisemenova/Statistics)
++ [Postman Echo](https://github.com/chrisemenova/PostmanEcho)
++ [Money Transfer Test](https://github.com/chrisemenova/PageObjects)
++ [Паттерны](https://github.com/chrisemenova/PatternTaskTwo)
 
 ### Сертификаты Нетологии
 
