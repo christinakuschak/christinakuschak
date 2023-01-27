@@ -3,7 +3,7 @@
 
 Я <b>Кристина Семенова</b>, Тестировщик ПО/ QA Engineer. 
 
-[`Здесь`](https://docs.google.com/document/d/1sKWd2meQin3GVNapu8nkJ3L0NzqPX0ZmcSlLW8HweEc/edit?usp=sharing) моё резюме.
+[`Здесь`](https://docs.google.com/document/d/1HzEjAxIS7oETztf9z0lLw7JChlsoEdRXrJYHJ5X8w4Y/edit?usp=sharing) моё резюме.
 
 ### Учебные проекты
 + [Радиоман](https://github.com/chrisemenova/Radioman)
