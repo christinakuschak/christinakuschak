@@ -1,4 +1,5 @@
 
+
 ### Привет!
 
 Я <b>Кристина Семенова</b>, Тестировщик ПО/ QA Engineer. 
@@ -21,3 +22,4 @@
 + [Автоматизированное тестирование](https://github.com/chrisemenova/chrisemenova/blob/main/4.%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
 
 
+<img src="https://user-images.githubusercontent.com/107304447/215061253-f30509ab-e364-4554-ad0a-51979a550697.jpg" width="270" height="200" />
