@@ -12,6 +12,7 @@
 + [Postman Echo](https://github.com/chrisemenova/PostmanEcho)
 + [Money Transfer Test](https://github.com/chrisemenova/PageObjects)
 + [Паттерны](https://github.com/chrisemenova/PatternTaskTwo)
++ [Покупка тура Марракэш](https://github.com/chrisemenova/Diploma-QA)
 
 ### Сертификаты Нетологии
 
