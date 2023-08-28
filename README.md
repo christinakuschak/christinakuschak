@@ -2,7 +2,7 @@
 
 ### Привет!
 
-Я <b>Кристина Семенова</b>, Тестировщик ПО/ QA Engineer. 
+Я <b>Кристина Кущак</b>, Тестировщик ПО/ QA Engineer. 
 
 [`Здесь`](https://docs.google.com/document/d/1HzEjAxIS7oETztf9z0lLw7JChlsoEdRXrJYHJ5X8w4Y/edit?usp=sharing) моё резюме.
 
